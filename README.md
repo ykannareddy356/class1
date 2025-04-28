@@ -9,7 +9,7 @@
 
 ## how to use 
 
-1.open vscode
+1.open vscode <br/>
 2.click on open 
 3.edit file
 4.save file 
