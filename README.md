@@ -10,8 +10,20 @@
 ## how to use 
 
 1.open vscode <br/>
-2.click on open 
-3.edit file
-4.save file 
-5.publish file
-5.deploy file
+2.click on open <br/>
+3.edit file <br/>
+4.save file <br/>
+5.publish file <br/>
+5.deploy file <br/>
+
+## Mern stack tools
+<ul>
+  ---HTML
+  ---CSS
+  ---JavaScript
+  ---React.js
+  ---Node.js
+  ---DBMS
+  ---Python
+</ul>
+
